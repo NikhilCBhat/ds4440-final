@@ -8,3 +8,6 @@
 
 ## Training Data
 See the folder in this repository. 
+
+## Presentation
+[Google Slides Here](https://docs.google.com/presentation/d/1eSikbJW7pDmtWbU4pRWVKWq2HS3RyaU9D3IUQQXJBWw/edit#slide=id.p)
