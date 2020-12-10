@@ -1,4 +1,4 @@
-# ds4440-final
+# DS4440-final
 
 ## Paper
 [Google Doc Here](https://docs.google.com/document/d/1_L5R0IAFU0vAxjRKIGxb6fjag5q-s3Mlpi9D2O-3spg/edit#heading=h.8ztrrplg4m1f)
